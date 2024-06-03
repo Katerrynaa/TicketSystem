@@ -1,0 +1,10 @@
+Flask==3.0.3
+mysql==0.0.3
+mysqlclient==2.2.4
+Flask-MySQLdb==2.0.0
+python-dotenv==1.0.1
+alembic==1.13.1
+SQLAlchemy==2.0.30
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+marshmallow==3.21.2
